@@ -33,30 +33,6 @@ I am a **Senior Full-Stack Engineer** with over 6 years of experience in designi
 
 ---
 
-## 💼 Work Experience (工作經歷)
-
-### 🚀 Senior Full-Stack Engineer | **TechCorp Solutions**
-*Jan 2023 – Present | Taipei, Taiwan (Hybrid)*
-
-- **Architecture Redesign**: Led the migration from a monolithic legacy system to a microservices architecture using Node.js and Docker, improving platform scalability by 40%.
-- **Performance Optimization**: Optimized database queries and Redis caching strategy, reducing peak API response time from 450ms to 85ms.
-- **Frontend Leadership**: Mentored junior developers and established frontend coding standards, component libraries, and automated CI/CD pipelines.
-
-### 💻 Software Engineer | **DataFlow Systems**
-*Jul 2020 – Dec 2022 | Hsinchu, Taiwan*
-
-- **Dashboard Development**: Built interactive real-time monitoring dashboards using React, Redux, and WebSockets serving 50k daily active users.
-- **API Development**: Designed and maintained resilient RESTful APIs in Python (FastAPI) integrated with PostgreSQL and AWS S3 storage.
-- **Automated Testing**: Achieved 85%+ test coverage across core repositories using Jest and Playwright, reducing regression bugs by 35%.
-
-### 👶 Junior Web Developer | **WebStudio Creative**
-*Aug 2018 – Jun 2020 | Taipei, Taiwan*
-
-- Developed responsive client websites using HTML, CSS, JavaScript, and Vue.js.
-- Integrated third-party APIs (payment gateways, CMS engines, social authentication).
-
----
-
 ## 📁 Featured Projects (代表專案)
 
 ### 📊 [CloudMetrics Analytics Dashboard](#)
@@ -71,20 +47,8 @@ I am a **Senior Full-Stack Engineer** with over 6 years of experience in designi
 
 ---
 
-## 🎓 Education & Certifications (學歷與認證)
-
-- 🎓 **B.S. in Computer Science & Information Engineering** – *National Taiwan University (2014 – 2018)*
-- 📜 **AWS Certified Solutions Architect – Associate** *(Issued 2023)*
-- 📜 **Certified Kubernetes Application Developer (CKAD)** *(Issued 2022)*
-
----
-
 ## 📬 Connect With Me (聯絡方式)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail)](mailto:alex.chen@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/fufukwang)
+[![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail)](mailto:github@hellocode.info)
 
----
-
-*💡 備註：此 CV README 模板使用的是虛構範例資料（如 Alex Chen），完全未包含任何真實個人隱私資訊。您可以直接修改為您個人的經歷與技能資訊。*
