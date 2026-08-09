@@ -61,20 +61,6 @@ Full-Stack Software Engineer & Technical Consultant with **15+ years** of softwa
 
 ---
 
-## 📁 Featured Projects
-
-### 📊 [CloudMetrics Analytics Dashboard](#)
-> *A high-performance real-time cloud resource monitoring dashboard built with Next.js, Tailwind CSS, and WebSockets.*
-- **Tech Stack**: `Next.js` `TypeScript` `Tailwind CSS` `Chart.js` `Node.js`
-- **Key Features**: Live server health metrics, customizable alerts, exportable analytics reports.
-
-### 🛠️ [DevTask CLI Tool](#)
-> *An open-source CLI tool for managing developer workflows and automating repository boilerplate generation.*
-- **Tech Stack**: `Node.js` `TypeScript` `Commander.js` `Inquirer.js`
-- **Key Features**: Interactive prompt runner, custom template generator, cross-platform support.
-
----
-
 ## 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/fufukwang)
